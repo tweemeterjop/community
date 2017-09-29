@@ -68,6 +68,8 @@ class CheckIP(Signature):
         "checkip.amazonaws.com",
         "ipaddress.pro",
         "ip-api.com",
+        "geoplugin.net",
+        "dnsdynamic.org",
     ]
 
     def on_complete(self):
